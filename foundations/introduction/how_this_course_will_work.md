@@ -18,7 +18,7 @@ This section intentionally covers a very broad range of topics. It's silly to go
 
 This curriculum works by pulling together the best content from across the internet for learning a particular topic.  In each lesson, we'll introduce the topic and try to provide some useful context before pointing you to external resources made by others.
 
-Most lessons will contain questions that you should be able to answer before moving on.  Some of the lessons will ask you to complete exercises. In addition, we provide several projects throughout the curriculum to help you grow your understanding by actually building things.
+Most lessons will contain questions that you should be able to answer before moving on.  Some of the lessons will ask you to complete exercises. Note that you shouldn't follow links on external pages leading to other lessons or content, as it is important to learn these topics in the recommended order.  In addition, we provide several projects throughout the curriculum to help you grow your understanding by actually building things.
 
 ### A Note About Language
 
